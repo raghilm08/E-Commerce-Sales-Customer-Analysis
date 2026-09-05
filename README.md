@@ -1,1 +1,1 @@
-# Hotel-Booking
+# Mini Project
